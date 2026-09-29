@@ -1,0 +1,6 @@
+{
+  "name": "Catch Me 😂",
+  "description": "A ridiculously funny, addictive browser game where you try to catch an evasive button that roasts you whenever you miss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
